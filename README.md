@@ -21,9 +21,17 @@ This repository tracks the latest research on machine unlearning in multimodal l
   - Code: -
 
 ### 2024
-- [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models]([https://arxiv.org/abs/2507.07137](https://openreview.net/forum?id=YNx7ai4zTs))
+- [Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset](https://github.com/SaFoLab-WISC/FIUBench)
+  - Author(s): Yingzi Ma,Yingzi_Ma2, Jiongxiao Wang, Fei Wang, Siyuan Ma, Jiazhao Li, Jinsheng Pan, Xiujun Li, Furong Huang, Lichao Sun, Bo Li, Yejin Choi, Muhao Chen, Chaowei Xiao
+  - Date: 2024-11-5
+  - Source: ICLR 2025
+  - Code: -
+
+
+
+- [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models](https://openreview.net/forum?id=YNx7ai4zTs)
   - Author(s): Jiaqi Li1, Qianshan Wei1,Chuanyi Zhang, Guilin Qi,Miaozeng Du, Yongrui Chen,Sheng Bi, Fan Liu2
-  - Date: 2024-05
+  - Date: 2024-05-21
   - Source: NeurIPS 2024
   - Code: -
 
