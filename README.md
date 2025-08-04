@@ -17,10 +17,15 @@ This repository tracks the latest research on machine unlearning in multimodal l
 - [Automating Evaluation of Diffusion Model Unlearning with (Vision-) Language Model World Knowledge](https://arxiv.org/abs/2507.07137)
   - Author(s): Eric Yeats, Darryl Hannan, Henry Kvinge, Timothy Doster, Scott Mahan
   - Date: 2025-07
-  - Venue: -
+  - Source: arxiv
   - Code: -
 
 ### 2024
+- [Single Image Unlearning: Efficient Machine Unlearning in Multimodal Large Language Models]([https://arxiv.org/abs/2507.07137](https://openreview.net/forum?id=YNx7ai4zTs))
+  - Author(s): Jiaqi Li1, Qianshan Wei1,Chuanyi Zhang, Guilin Qi,Miaozeng Du, Yongrui Chen,Sheng Bi, Fan Liu2
+  - Date: 2024-05
+  - Source: NeurIPS 2024
+  - Code: -
 
 
 ### 2023
