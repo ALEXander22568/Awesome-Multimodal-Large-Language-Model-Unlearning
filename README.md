@@ -14,7 +14,11 @@ This repository tracks the latest research on machine unlearning in multimodal l
   - [2021](#2021)
 ## Papers
 ### 2025
-
+- [Automating Evaluation of Diffusion Model Unlearning with (Vision-) Language Model World Knowledge](https://arxiv.org/abs/2507.07137)
+  - Author(s): Eric Yeats, Darryl Hannan, Henry Kvinge, Timothy Doster, Scott Mahan
+  - Date: 2025-07
+  - Venue: -
+  - Code: -
 
 ### 2024
 
